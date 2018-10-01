@@ -1,0 +1,36 @@
+
+h1{ 
+color: rgb(0, 255, 127);
+			font-size: 60px;
+		text-align: center;
+		text-shadow: 2px 2px #ff0000;
+		margin-top: 200px;
+
+ }
+
+.btn-xl {
+     background-color: #4CAF50; /* Green */
+    color: white;
+    text-shadow: 2px 2px #00FF00;
+    text-align: center;
+    padding: 10px 20px;
+    font-size: 30px;
+    border-radius: 10px;
+    width: 20%
+    margin-top: 10px;
+
+    cursor: pointer;
+
+
+
+}
+body{
+		background-image: url(https://images.freeimages.com/images/large-previews/647/snowy-mountain-1378865.jpg);
+		background-repeat: no-repeat;
+		background-size: 100%; 
+		}
+		
+	
+
+ 
+
